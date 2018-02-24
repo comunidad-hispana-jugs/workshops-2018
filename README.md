@@ -1,5 +1,8 @@
 # Workshops 2018
 
+
+ <img src="DukijoteDeLaMancha.JPG" alt="" width="302" height="303" />
+
 Aquí encontrarás los enlaces con la información de los Hack-Days y encuentros que realizamos en el año 2018
 
 **Fecha:** Febrero 24 . 2018
