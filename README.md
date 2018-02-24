@@ -1,6 +1,6 @@
-# workshops-2018
+# Workshops 2018
 
-Aqui encontraras los enlaces con la información de los Hack-Days y encuentros que realizamos en el año 2018
+Aquí encontrarás los enlaces con la información de los Hack-Days y encuentros que realizamos en el año 2018
 
 **Fecha:** Febrero 24 . 2018
 
