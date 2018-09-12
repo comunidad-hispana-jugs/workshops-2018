@@ -8,7 +8,7 @@ Aquí encontrarás los enlaces con la información de los Hack-Days y encuentros
 
 # Workshop-03: Creación de aplicaciones web con JavaEE/JakartaEE 8 y Payara 5, + bonus Novedades de Java SE 10
 
-**Fecha:** Febrero 24 . 2018
+**Fecha:** Julio28 . 2018
 
 **JUGs:** Presentador por MalagaJUG, apoyado por MedellinJUG 
 
