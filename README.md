@@ -10,7 +10,7 @@ Aquí encontrarás los enlaces con la información de los Hack-Days y encuentros
 
 **Fecha:** Julio28 . 2018
 
-**JUGs:** Presentador por MalagaJUG, apoyado por MedellinJUG 
+**JUGs:** Presentador por Guatemala JUG y MedellinJUG 
 
 **Descripción:**  Desde Centroamérica, el grupo de usuarios de Guatemala será el encargado de orientar nuestra tercer sesión en el més de Julio de 2018: Creación de aplicaciones web con JavaEE/JakartaEE 8 y Payara 5 y como bonus tendremos la introducción a las novedades de Java 10 con un taller a cargo del grupo de usuarios de Medellín.
 
