@@ -12,7 +12,7 @@ Aquí encontrarás los enlaces con la información de los Hack-Days y encuentros
 
 **JUGs:** Presentador por Guatemala JUG y MedellinJUG 
 
-**Descripción:** Creación de aplicaciones web con JavaEE/JakartaEE 8 y Payara 5 y como bonus tendremos la introducción a las novedades de Java 10 con un taller a cargo del grupo de usuarios de Medellín.
+**Descripción:** Creación de aplicaciones web con JavaEE/JakartaEE 8 y Payara 5 y como bonus tendremos la introducción a las novedades de Java SE 10.
 
 **Ver el repositorio** https://github.com/comunidad-hispana-jugs/workshop-03-JEE8_-_JSE10
 
