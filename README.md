@@ -6,6 +6,17 @@
 Aquí encontrarás los enlaces con la información de los Hack-Days y encuentros que realizamos en el año 2018
 
 
+# Workshop-04: Orquestación en Kubernetes para desarrolladores Java
+
+**Fecha:** Septiembre 29. 2018
+
+**JUGs:** Presentador por Vigo JUG y Coruña JUG 
+
+**Descripción:** El objetivo de este taller es desplegar una aplicación Java usando Docker & Kubernetes con los ajustes y límites de memoria y CPU adecuados.
+
+**Ver el repositorio** https://github.com/comunidad-hispana-jugs/workshop-04-Kubernetes-para-desarrolladores-Java
+
+
 # Workshop-03: Creación de aplicaciones web con JavaEE/JakartaEE 8 y Payara 5, + bonus Novedades de Java SE 10
 
 **Fecha:** Julio28 . 2018
